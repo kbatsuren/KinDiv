@@ -1,4 +1,4 @@
-# LexiGap
-The lexical gap database in Kinship domain
+# KinDiv
+Database of Lexical Diversity in Kinship Domain
 
-This resource currently contains 198 concepts, 1911 words in 168 languages, and 37370 gaps in 699 languages. All the data are expected to be uploaded before January 17th, 2021.
+This resource currently contains 198 concepts, 1911 words in 168 languages, and 37370 gaps in 699 languages. All data are expected to be uploaded before January 17th, 2021.
