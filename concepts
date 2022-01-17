@@ -1,0 +1,199 @@
+Subdomain	Concept	Abreviation	Source
+grandparents	grandparent	Gr;Pr	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+grandparents	grandfather	Gr;Fa	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+grandparents	paternal grandparent	Fa;Pr	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+grandparents	maternal grandparent	Mo;Pr	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+grandparents	grandparent (male speaking)	x;Gr;Pr	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+grandparents	grandparent (female speaking)	o;Gr;Pr	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+grandparents	grandmother	Gr;Mo	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+grandparents	paternal grandfather	Fa;Fa	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+grandparents	maternal grandfather	Mo;Fa	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+grandparents	paternal grandmother	Fa;Mo	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+grandparents	maternal grandmother	Mo;Mo	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+grandparents	grandfather (male speaking)	x;Gr;Fa	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+grandparents	grandfather (female speaking)	o;Gr;Fa	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+grandparents	grandmother (male speaking)	x;Gr;Mo	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+grandparents	grandmother (female speaking)	o;Gr;Mo	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+grandparents	paternal grandfather (male speaking)	x;Fa;Fa	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+grandparents	paternal grandfather (female speaking)	o;Fa;Fa	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+grandparents	maternal grandmother (male speaking)	x;Mo;Mo	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+grandparents	maternal grandmother (female speaking)	o;Mo;Mo	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+grandchildren	grandchild	Gr;Ch	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+grandchildren	grandchild (male speaking)	x;Gr;Ch	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+grandchildren	grandchild (female speaking)	o;Gr;Ch	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+grandchildren	grandson	Gr;So	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+grandchildren	granddaughter	Gr;Da	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+grandchildren	grandson (male speaking)	x;Gr;So	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+grandchildren	grandson (female speaking)	o;Gr;So	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+grandchildren	granddaughter (male speaking)	x;Gr;Da	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+grandchildren	granddaughter (female speaking)	o;Gr;Da	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+grandchildren	son's child	So;Ch	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+grandchildren	daughter's child	Da;Ch	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+grandchildren	son's child (male speaking)	x;So;Ch	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+grandchildren	son's child (female speaking)	o;So;Ch	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+grandchildren	daughter's child (male speaking)	x;Da;Ch	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+grandchildren	daughter's child (female speaking)	o;Da;Ch	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+grandchildren	son's son	So;So	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+grandchildren	son's daughter	So;Da	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+grandchildren	daughter's son	Da;So	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+grandchildren	daughter's daughter	Da;Da	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+grandchildren	son's son (male speaking)	x;So;So	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+grandchildren	son's son (female speaking)	o;So;So	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+grandchildren	son's daughter (male speaking)	x;So;Da	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+grandchildren	son's daughter (female speaking)	o;So;Da	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+grandchildren	daughter's son (male speaking)	x;Da;So	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+grandchildren	daughter's son (female speaking)	o;Da;So	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+grandchildren	daughter's daughter (male speaking)	x;Da;Da	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+grandchildren	daughter's daughter (female speaking)	o;Da;Da	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+siblings	sibling	Sb	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+siblings	brother	Br	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+siblings	sister	Ss	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+siblings	brother (male speaking)	x;Br	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+siblings	brother (female speaking)	o;Br	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+siblings	sister (male speaking)	x;Ss	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+siblings	sister (female speaking)	o;Ss	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+siblings	elder sibling	El;Sb	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+siblings	younger sibling	Yn;Sb	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+siblings	elder brother	El;Br	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+siblings	elder sister	El;Ss	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+siblings	younger brother	Yn;Br	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+siblings	younger sister	Yn;Ss	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+siblings	elder brother (male speaking)	x;El;Br	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+siblings	elder brother (female speaking)	o;El;Br	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+siblings	elder sister (male speaking)	x;El;Ss	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+siblings	elder sister (female speaking)	o;El;Ss	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+siblings	younger brother (male speaking)	x;Yn;Br	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+siblings	younger brother (female speaking)	o;Yn;Br	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+siblings	younger sister (male speaking)	x;Yn;Ss	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+siblings	younger sister (female speaking)	o;Yn;Ss	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+uncles and aunts	auncle	Pb	Wiktionary
+uncles and aunts	uncle	Pa;Br	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+uncles and aunts	aunt	Pa;Ss	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+uncles and aunts	father's sibling	Fa;Sb	Wiktionary
+uncles and aunts	mother's sibling	Mo;Sb	Wiktionary
+uncles and aunts	paternal uncle	Fa;Br	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+uncles and aunts	maternal uncle	Mo;Br	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+uncles and aunts	paternal aunt	Fa;Ss	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+uncles and aunts	maternal aunt	Mo;Ss	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+uncles and aunts	uncle (male speaking)	x;Pa;Br	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+uncles and aunts	uncle (female speaking)	o;Pa;Br	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+uncles and aunts	aunt (male speaking)	x;Pa;Ss	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+uncles and aunts	aunt (female speaking)	o;Pa;Ss	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+uncles and aunts	maternal uncle (male speaking)	x;Mo;Br	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+uncles and aunts	maternal uncle (female speaking)	o;Mo;Br	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+uncles and aunts	paternal aunt (male speaking)	x;Fa;Ss	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+uncles and aunts	paternal aunt (female speaking)	o;Fa;Ss	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+uncles and aunts	parent's elder brother	Pa;El;Br	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+uncles and aunts	parent's elder sister	Pa;El;Ss	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+uncles and aunts	parent's younger brother	Pa;Yn;Br	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+uncles and aunts	parent's younger sister	Pa;Yn;Ss	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+uncles and aunts	father's younger sibling	Fa;Yn;Sb	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+uncles and aunts	mother's younger sibling	Mo;Yn;Sb	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+uncles and aunts	father's elder brother	Fa;El;Br	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+uncles and aunts	father's younger brother	Fa;Yn;Br	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+uncles and aunts	father's elder sister	Fa;El;Ss	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+uncles and aunts	father's younger sister	Fa;Yn;Ss	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+uncles and aunts	mother's elder brother	Mo;El;Br	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+uncles and aunts	mother's younger brother	Mo;Yn;Br	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+uncles and aunts	mother's elder sister	Mo;El;Ss	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+uncles and aunts	mother's younger sister	Mo;Yn;Ss	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+nephews and nieces	nibling	Sb;Ch	Wiktionary
+nephews and nieces	nephew	Sb;So	Wiktionary
+nephews and nieces	niece	Sb;Da	Wiktionary
+nephews and nieces	brother's child	Br;Ch	Wiktionary
+nephews and nieces	sister's child	Ss;Ch	Wiktionary
+nephews and nieces	brother's child (female speaking)	o;Br;Ch	Wiktionary
+nephews and nieces	sister's child (male speaking)	x;Ss;Ch	Wiktionary
+nephews and nieces	brother's son	Br;So	Wiktionary
+nephews and nieces	brother's daughter	Br;Da	Wiktionary
+nephews and nieces	sister's son	Ss;So	Wiktionary
+nephews and nieces	sister's daughter	Ss;Da	Wiktionary
+nephews and nieces	brother's son (male speaking)	x;Br;So	Wiktionary
+nephews and nieces	brother's son (female speaking)	o;Br;So	Wiktionary
+nephews and nieces	brother's daughter (male speaking)	x;Br;Da	Wiktionary
+nephews and nieces	sister's son (male speaking)	x;Ss;So	Wiktionary
+nephews and nieces	sister's son (female speaking)	o;Ss;So	Wiktionary
+nephews and nieces	sister's daughter (female speaking)	o;Ss;Da	Wiktionary
+nephews and nieces	elder brother's child	El;Br;Ch	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+nephews and nieces	younger brother's child	Yn;Br;Ch	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+nephews and nieces	elder sister's child	El;Ss;Ch	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+nephews and nieces	younger sister's child	Yn;Ss;Ch	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+nephews and nieces	elder brother's child (male speaking)	x;El;Br;Ch	Wiktionary
+nephews and nieces	younger brother's child (male speaking)	x;Yn;Br;Ch	Wiktionary
+nephews and nieces	elder sister's child (female speaking)	o;El;Ss;Ch	Wiktionary
+nephews and nieces	younger sister's child (female speaking)	o;Yn;Ss;Ch	Wiktionary
+nephews and nieces	elder brother's son	El;Br;So	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+nephews and nieces	elder brother's daughter	El;Br;Da	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+nephews and nieces	younger brother's son	Yn;Br;So	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+nephews and nieces	younger brother's daughter	Yn;Br;Da	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+nephews and nieces	elder sister's son	El;Ss;So	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+nephews and nieces	elder sister's daughter	El;Ss;Da	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+nephews and nieces	younger sister's son	Yn;Ss;So	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+nephews and nieces	younger sister's daughter	Yn;Ss;Da	Murdock, G. P. (1970). Kin term patterns and their distribution. Ethnology, 9(2), 165-208.
+cousins	cousin	Pa;Sb;Ch	Wiktionary
+cousins	cousin (female speaking)	o;Pa;Sb;Ch	Wiktionary
+cousins	male cousin	Pa;Sb;So	Wiktionary
+cousins	female cousin	Pa;Sb;Da	Wiktionary
+cousins	male cousin (male speaking)	x;Pa;Sb;So	Wiktionary
+cousins	male cousin (female speaking)	o;Pa;Sb;So	Wiktionary
+cousins	female cousin (male speaking)	x;Pa;Sb;Da	Wiktionary
+cousins	elder cousin	El;Pa;Sb;Ch	Wiktionary
+cousins	younger cousin	Yn;Pa;Sb;Ch	Wiktionary
+cousins	elder male cousin	El;Pa;Sb;So	Wiktionary
+cousins	elder female cousin	El;Pa;Sb;Da	Wiktionary
+cousins	younger male cousin	Yn;Pa;Sb;So	Wiktionary
+cousins	younger female cousin	Yn;Pa;Sb;Da	Wiktionary
+cousins	elder male cousin (male speaking)	x;El;Pa;Sb;So	Wiktionary
+cousins	elder female cousin (female speaking)	o;El;Pa;Sb;Da	Wiktionary
+cousins	younger male cousin (male speaking)	x;Yn;Pa;Sb;So	Wiktionary
+cousins	younger female cousin (female speaking)	o;Yn;Pa;Sb;Da	Wiktionary
+cousins	child of father's sibling	Fa;Sb;Ch	Wiktionary
+cousins	child of mother's sibling	Mo;Sb;Ch	Wiktionary
+cousins	child of parent's brother	Pa;Br;Ch	Gelaye, G. (1998). Semantic Analysis of Amharic Kinship Terms in Gojjam: An Anthropological Approach. Africa: Rivista trimestrale di studi e documentazione dell’Istituto italiano per l’Africa e l’Oriente, 53(1), 71-92.
+cousins	child of parent's sister	Pa;Ss;Ch	Gelaye, G. (1998). Semantic Analysis of Amharic Kinship Terms in Gojjam: An Anthropological Approach. Africa: Rivista trimestrale di studi e documentazione dell’Istituto italiano per l’Africa e l’Oriente, 53(1), 71-92.
+cousins	child of father's brother	Fa;Br;Ch	Wiktionary
+cousins	child of father's sister	Fa;Ss;Ch	Wiktionary
+cousins	child of mother's brother	Mo;Br;Ch	Wiktionary
+cousins	child of mother's sister	Mo;Ss;Ch	Wiktionary
+cousins	son of parent's brother	Pa;Br;So	Wiktionary
+cousins	daughter of parent's brother	Pa;Br;Da	Wiktionary
+cousins	son of parent's sister	Pa;Ss;So	Wiktionary
+cousins	daughter of parent's sister	Pa;Ss;Da	Wiktionary
+cousins	son of mother's sibling	Mo;Sb;So	Wiktionary
+cousins	daughter of mother's sibling	Mo;Sb;Da	Wiktionary
+cousins	son of father's brother	Fa;Br;So	Wiktionary
+cousins	daughter of father's brother	Fa;Br;Da	Wiktionary
+cousins	son of father's sister	Fa;Ss;So	Wiktionary
+cousins	daughter of father's sister	Fa;Ss;Da	Wiktionary
+cousins	son of mother's brother	Mo;Br;So	Wiktionary
+cousins	daughter of mother's brother	Mo;Br;Da	Wiktionary
+cousins	son of mother's sister	Mo;Ss;So	Wiktionary
+cousins	daughter of mother's sister	Mo;Ss;Da	Wiktionary
+cousins	son of father's brother (male speaking)	x;Fa;Br;So	Wiktionary
+cousins	son of father's brother (female speaking)	o;Fa;Br;So	Wiktionary
+cousins	daughter of father's brother (male speaking)	x;Fa;Br;Da	Wiktionary
+cousins	daughter of father's brother (female speaking)	o;Fa;Br;Da	Wiktionary
+cousins	son of mother's sister (male speaking)	x;Mo;Ss;So	Wiktionary
+cousins	son of mother's sister (female speaking)	o;Mo;Ss;So	Wiktionary
+cousins	daughter of mother's sister (male speaking)	x;Mo;Ss;Da	Wiktionary
+cousins	daughter of mother's sister (female speaking)	o;Mo;Ss;Da	Wiktionary
+cousins	elder, son of father's brother	El;Fa;Br;So	Wiktionary
+cousins	younger, son of father's brother	Yn;Fa;Br;So	Wiktionary
+cousins	elder, daughter of father's brother	El;Fa;Br;Da	Wiktionary
+cousins	younger, daughter of father's brother	Yn;Fa;Br;Da	Wiktionary
+cousins	elder, son of father's sister	El;Fa;Ss;So	Wiktionary
+cousins	younger, son of father's sister	Yn;Fa;Ss;So	Wiktionary
+cousins	elder, daughter of father's sister	El;Fa;Ss;Da	Wiktionary
+cousins	younger, daughter of father's sister	Yn;Fa;Ss;Da	Wiktionary
+cousins	elder, son of mother's sibling	El;Mo;Sb;So	Wiktionary
+cousins	younger, son of mother's sibling	Yn;Mo;Sb;So	Wiktionary
+cousins	elder, daughter of mother's sibling	El;Mo;Sb;Da	Wiktionary
+cousins	younger, daughter of mother's sibling	Yn;Mo;Sb;Da	Wiktionary
+cousins	elder, son of mother's sister	El;Mo;Ss;So	Native speaker
+cousins	younger, son of mother's sister	Yn;Mo;Ss;So	Native speaker
+cousins	elder, daughter of mother's sister	El;Mo;Ss;Da	Native speaker
+cousins	younger, daughter of mother's sister	Yn;Mo;Ss;Da	Native speaker
+cousins	elder, son of mother's brother	El;Mo;Br;So	Native speaker
+cousins	younger, son of mother's brother	Yn;Mo;Br;So	Native speaker
+cousins	elder, daughter of mother's brother	El;Mo;Br;Da	Native speaker
+cousins	younger, daughter of mother's brother	Yn;Mo;Br;Da	Native speaker
