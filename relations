@@ -1,0 +1,348 @@
+Subdomain	Hyponym_concept	Hypernym_concept
+grandparents	Gr;Pr	#
+grandparents	Fa;Pr	Gr;Pr
+grandparents	Mo;Pr	Gr;Pr
+grandparents	Gr;Mo	Gr;Pr
+grandparents	Gr;Fa	Gr;Pr
+grandparents	Fa;Fa	Fa;Pr
+grandparents	Fa;Fa	Gr;Fa
+grandparents	Mo;Mo	Mo;Pr
+grandparents	Mo;Mo	Gr;Mo
+grandparents	Mo;Fa	Mo;Pr
+grandparents	Mo;Fa	Gr;Fa
+grandparents	Fa;Mo	Fa;Pr
+grandparents	Fa;Mo	Gr;Mo
+grandparents	x;Gr;Pr	Gr;Pr
+grandparents	o;Gr;Pr	Gr;Pr
+grandparents	x;Gr;Fa	Gr;Fa
+grandparents	x;Gr;Fa	x;Gr;Pr
+grandparents	o;Gr;Fa	Gr;Fa
+grandparents	o;Gr;Fa	o;Gr;Pr
+grandparents	x;Gr;Mo	Gr;Mo
+grandparents	x;Gr;Mo	x;Gr;Pr
+grandparents	o;Gr;Mo	Gr;Mo
+grandparents	o;Gr;Mo	o;Gr;Pr
+grandparents	x;Fa;Fa	Fa;Fa
+grandparents	x;Fa;Fa	x;Gr;Fa
+grandparents	o;Fa;Fa	Fa;Fa
+grandparents	o;Fa;Fa	o;Gr;Fa
+grandparents	x;Mo;Mo	Mo;Mo
+grandparents	x;Mo;Mo	x;Gr;Mo
+grandparents	o;Mo;Mo	Mo;Mo
+grandparents	o;Mo;Mo	o;Gr;Mo
+grandchildren	Gr;Ch	#
+grandchildren	Gr;So	Gr;Ch
+grandchildren	Gr;Da	Gr;Ch
+grandchildren	Da;Ch	Gr;Ch
+grandchildren	So;Ch	Gr;Ch
+grandchildren	Da;So	Da;Ch
+grandchildren	Da;So	Gr;So
+grandchildren	So;So	So;Ch
+grandchildren	So;So	Gr;So
+grandchildren	So;Da	So;Ch
+grandchildren	So;Da	Gr;Da
+grandchildren	Da;Da	Gr;Da
+grandchildren	Da;Da	Da;Ch
+grandchildren	x;Gr;Ch	Gr;Ch
+grandchildren	o;Gr;Ch	Gr;Ch
+grandchildren	x;Gr;So	Gr;So
+grandchildren	x;Gr;So	x;Gr;Ch
+grandchildren	o;Gr;So	Gr;So
+grandchildren	o;Gr;So	o;Gr;Ch
+grandchildren	x;Gr;Da	Gr;Da
+grandchildren	x;Gr;Da	x;Gr;Ch
+grandchildren	o;Gr;Da	Gr;Da
+grandchildren	o;Gr;Da	o;Gr;Ch
+grandchildren	x;So;Ch	So;Ch
+grandchildren	x;So;Ch	x;Gr;Ch
+grandchildren	o;So;Ch	So;Ch
+grandchildren	o;So;Ch	o;Gr;Ch
+grandchildren	x;Da;Ch	Da;Ch
+grandchildren	x;Da;Ch	x;Gr;Ch
+grandchildren	o;Da;Ch	Da;Ch
+grandchildren	o;Da;Ch	o;Gr;Ch
+grandchildren	x;So;So	So;So
+grandchildren	x;So;So	x;Gr;So
+grandchildren	x;So;So	x;So;Ch
+grandchildren	o;So;So	So;So
+grandchildren	o;So;So	o;Gr;So
+grandchildren	o;So;So	o;So;Ch
+grandchildren	x;So;Da	So;Da
+grandchildren	x;So;Da	x;Gr;Da
+grandchildren	x;So;Da	x;So;Ch
+grandchildren	o;So;Da	So;Da
+grandchildren	o;So;Da	o;Gr;Da
+grandchildren	o;So;Da	o;So;Ch
+grandchildren	x;Da;So	Da;So
+grandchildren	x;Da;So	x;Gr;So
+grandchildren	x;Da;So	x;Da;Ch
+grandchildren	o;Da;So	Da;So
+grandchildren	o;Da;So	o;Gr;So
+grandchildren	o;Da;So	o;Da;Ch
+grandchildren	x;Da;Da	Da;Da
+grandchildren	x;Da;Da	x;Gr;Da
+grandchildren	x;Da;Da	x;Da;Ch
+grandchildren	o;Da;Da	Da;Da
+grandchildren	o;Da;Da	o;Gr;Da
+grandchildren	o;Da;Da	o;Da;Ch
+siblings	Sb	#
+siblings	Br	Sb
+siblings	Ss	Sb
+siblings	El;Sb	Sb
+siblings	Yn;Sb	Sb
+siblings	x;Br	Br
+siblings	o;Br	Br
+siblings	x;Ss	Ss
+siblings	o;Ss	Ss
+siblings	El;Br	Br
+siblings	El;Br	El;Sb
+siblings	El;Ss	Ss
+siblings	El;Ss	El;Sb
+siblings	Yn;Br	Br
+siblings	Yn;Br	Yn;Sb
+siblings	Yn;Ss	Ss
+siblings	Yn;Ss	Yn;Sb
+siblings	x;El;Br	El;Br
+siblings	x;El;Br	x;Br
+siblings	o;El;Br	El;Br
+siblings	o;El;Br	o;Br
+siblings	x;El;Ss	El;Ss
+siblings	x;El;Ss	x;Ss
+siblings	o;El;Ss	El;Ss
+siblings	o;El;Ss	o;Ss
+siblings	x;Yn;Br	Yn;Br
+siblings	x;Yn;Br	x;Br
+siblings	o;Yn;Br	Yn;Br
+siblings	o;Yn;Br	o;Br
+siblings	x;Yn;Ss	Yn;Ss
+siblings	x;Yn;Ss	x;Ss
+siblings	o;Yn;Ss	Yn;Ss
+siblings	o;Yn;Ss	o;Ss
+uncles and aunts	Pb	#
+uncles and aunts	Pa;Br	Pb
+uncles and aunts	Pa;Ss	Pb
+uncles and aunts	Fa;Sb	Pb
+uncles and aunts	Mo;Sb	Pb
+uncles and aunts	Fa;Br	Pa;Br
+uncles and aunts	Fa;Br	Fa;Sb
+uncles and aunts	Mo;Br	Pa;Br
+uncles and aunts	Mo;Br	Mo;Sb
+uncles and aunts	Fa;Ss	Pa;Ss
+uncles and aunts	Fa;Ss	Fa;Sb
+uncles and aunts	Mo;Ss	Pa;Ss
+uncles and aunts	Mo;Ss	Mo;Sb
+uncles and aunts	x;Pa;Br	Pa;Br
+uncles and aunts	o;Pa;Br	Pa;Br
+uncles and aunts	x;Pa;Ss	Pa;Ss
+uncles and aunts	o;Pa;Ss	Pa;Ss
+uncles and aunts	x;Mo;Br	Mo;Br
+uncles and aunts	x;Mo;Br	x;Pa;Br
+uncles and aunts	o;Mo;Br	Mo;Br
+uncles and aunts	o;Mo;Br	o;Pa;Br
+uncles and aunts	x;Fa;Ss	Fa;Ss
+uncles and aunts	x;Fa;Ss	x;Pa;Ss
+uncles and aunts	o;Fa;Ss	Fa;Ss
+uncles and aunts	o;Fa;Ss	o;Pa;Ss
+uncles and aunts	Pa;El;Br	Pa;Br
+uncles and aunts	Pa;El;Ss	Pa;Ss
+uncles and aunts	Pa;Yn;Br	Pa;Br
+uncles and aunts	Pa;Yn;Ss	Pa;Ss
+uncles and aunts	Fa;Yn;Sb	Fa;Sb
+uncles and aunts	Mo;Yn;Sb	Mo;Sb
+uncles and aunts	Fa;El;Br	Fa;Br
+uncles and aunts	Fa;El;Br	Pa;El;Br
+uncles and aunts	Fa;Yn;Br	Fa;Br
+uncles and aunts	Fa;Yn;Br	Pa;Yn;Br
+uncles and aunts	Fa;Yn;Br	Fa;Yn;Sb
+uncles and aunts	Mo;El;Br	Mo;Br
+uncles and aunts	Mo;El;Br	Pa;El;Br
+uncles and aunts	Mo;Yn;Br	Mo;Br
+uncles and aunts	Mo;Yn;Br	Pa;Yn;Br
+uncles and aunts	Mo;Yn;Br	Mo;Yn;Sb
+uncles and aunts	Fa;El;Ss	Fa;Ss
+uncles and aunts	Fa;El;Ss	Pa;El;Ss
+uncles and aunts	Fa;Yn;Ss	Fa;Ss
+uncles and aunts	Fa;Yn;Ss	Pa;Yn;Ss
+uncles and aunts	Fa;Yn;Ss	Fa;Yn;Sb
+uncles and aunts	Mo;El;Ss	Mo;Ss
+uncles and aunts	Mo;El;Ss	Pa;El;Ss
+uncles and aunts	Mo;Yn;Ss	Mo;Ss
+uncles and aunts	Mo;Yn;Ss	Pa;Yn;Ss
+uncles and aunts	Mo;Yn;Ss	Mo;Yn;Sb
+nephews and nieces	Sb;Ch	#
+nephews and nieces	Sb;So	Sb;Ch
+nephews and nieces	Sb;Da	Sb;Ch
+nephews and nieces	Br;Ch	Sb;Ch
+nephews and nieces	Ss;Ch	Sb;Ch
+nephews and nieces	Br;So	Br;Ch
+nephews and nieces	Br;So	Sb;So
+nephews and nieces	Br;Da	Br;Ch
+nephews and nieces	Br;Da	Sb;Da
+nephews and nieces	Ss;So	Ss;Ch
+nephews and nieces	Ss;So	Sb;So
+nephews and nieces	Ss;Da	Ss;Ch
+nephews and nieces	Ss;Da	Sb;Da
+nephews and nieces	El;Br;Ch	Br;Ch
+nephews and nieces	Yn;Br;Ch	Br;Ch
+nephews and nieces	El;Ss;Ch	Ss;Ch
+nephews and nieces	Yn;Ss;Ch	Ss;Ch
+nephews and nieces	o;Br;Ch	Br;Ch
+nephews and nieces	x;Ss;Ch	Ss;Ch
+nephews and nieces	x;Br;So	Br;So
+nephews and nieces	o;Br;So	Br;So
+nephews and nieces	o;Br;So	o;Br;Ch
+nephews and nieces	x;Ss;So	Ss;So
+nephews and nieces	x;Ss;So	x;Ss;Ch
+nephews and nieces	o;Ss;So	Ss;So
+nephews and nieces	x;Br;Da	Br;Da
+nephews and nieces	o;Ss;Da	Ss;Da
+nephews and nieces	x;El;Br;Ch	El;Br;Ch
+nephews and nieces	x;Yn;Br;Ch	Yn;Br;Ch
+nephews and nieces	o;El;Ss;Ch	El;Ss;Ch
+nephews and nieces	o;Yn;Ss;Ch	Yn;Ss;Ch
+nephews and nieces	El;Br;So	El;Br;Ch
+nephews and nieces	El;Br;So	Br;So
+nephews and nieces	El;Br;Da	El;Br;Ch
+nephews and nieces	El;Br;Da	Br;Da
+nephews and nieces	Yn;Br;So	Yn;Br;Ch
+nephews and nieces	Yn;Br;So	Br;So
+nephews and nieces	Yn;Br;Da	Yn;Br;Ch
+nephews and nieces	Yn;Br;Da	Br;Da
+nephews and nieces	El;Ss;So	El;Ss;Ch
+nephews and nieces	El;Ss;So	Ss;So
+nephews and nieces	El;Ss;Da	El;Ss;Ch
+nephews and nieces	El;Ss;Da	Ss;Da
+nephews and nieces	Yn;Ss;So	Yn;Ss;Ch
+nephews and nieces	Yn;Ss;So	Ss;So
+nephews and nieces	Yn;Ss;Da	Yn;Ss;Ch
+nephews and nieces	Yn;Ss;Da	Ss;Da
+cousins	Pa;Sb;Ch	#
+cousins	o;Pa;Sb;Ch	Pa;Sb;Ch
+cousins	Pa;Sb;So	Pa;Sb;Ch
+cousins	Pa;Sb;Da	Pa;Sb;Ch
+cousins	El;Pa;Sb;Ch	Pa;Sb;Ch
+cousins	Yn;Pa;Sb;Ch	Pa;Sb;Ch
+cousins	Fa;Sb;Ch	Pa;Sb;Ch
+cousins	Mo;Sb;Ch	Pa;Sb;Ch
+cousins	Pa;Br;Ch	Pa;Sb;Ch
+cousins	Pa;Ss;Ch	Pa;Sb;Ch
+cousins	x;Pa;Sb;So	Pa;Sb;So
+cousins	o;Pa;Sb;So	Pa;Sb;So
+cousins	o;Pa;Sb;So	o;Pa;Sb;Ch
+cousins	x;Pa;Sb;Da	Pa;Sb;Da
+cousins	El;Pa;Sb;So	Pa;Sb;So
+cousins	El;Pa;Sb;So	El;Pa;Sb;Ch
+cousins	El;Pa;Sb;Da	Pa;Sb;Da
+cousins	El;Pa;Sb;Da	El;Pa;Sb;Ch
+cousins	Yn;Pa;Sb;So	Pa;Sb;So
+cousins	Yn;Pa;Sb;So	Yn;Pa;Sb;Ch
+cousins	Yn;Pa;Sb;Da	Pa;Sb;Da
+cousins	Yn;Pa;Sb;Da	Yn;Pa;Sb;Ch
+cousins	Fa;Br;Ch	Pa;Br;Ch
+cousins	Fa;Br;Ch	Fa;Sb;Ch
+cousins	Fa;Ss;Ch	Pa;Ss;Ch
+cousins	Fa;Ss;Ch	Fa;Sb;Ch
+cousins	Mo;Br;Ch	Pa;Br;Ch
+cousins	Mo;Br;Ch	Mo;Sb;Ch
+cousins	Mo;Ss;Ch	Pa;Ss;Ch
+cousins	Mo;Ss;Ch	Mo;Sb;Ch
+cousins	Pa;Br;So	Pa;Sb;So
+cousins	Pa;Br;So	Pa;Br;Ch
+cousins	Pa;Br;Da	Pa;Sb;Da
+cousins	Pa;Br;Da	Pa;Br;Ch
+cousins	Pa;Ss;So	Pa;Sb;So
+cousins	Pa;Ss;So	Pa;Ss;Ch
+cousins	Pa;Ss;Da	Pa;Sb;Da
+cousins	Pa;Ss;Da	Pa;Ss;Ch
+cousins	Fa;Sb;So	Pa;Sb;So
+cousins	Fa;Sb;So	Fa;Sb;Ch
+cousins	Fa;Sb;Da	Pa;Sb;Da
+cousins	Fa;Sb;Da	Fa;Sb;Ch
+cousins	Mo;Sb;So	Pa;Sb;So
+cousins	Mo;Sb;So	Mo;Sb;Ch
+cousins	Mo;Sb;Da	Pa;Sb;Da
+cousins	Mo;Sb;Da	Mo;Sb;Ch
+cousins	Fa;Br;So	Pa;Br;So
+cousins	Fa;Br;So	Fa;Sb;So
+cousins	Fa;Br;So	Fa;Br;Ch
+cousins	Fa;Br;Da	Pa;Br;Da
+cousins	Fa;Br;Da	Fa;Sb;Da
+cousins	Fa;Br;Da	Fa;Br;Ch
+cousins	Fa;Ss;So	Pa;Ss;So
+cousins	Fa;Ss;So	Fa;Sb;So
+cousins	Fa;Ss;So	Fa;Ss;Ch
+cousins	Fa;Ss;Da	Pa;Ss;Da
+cousins	Fa;Ss;Da	Fa;Sb;Da
+cousins	Fa;Ss;Da	Fa;Ss;Ch
+cousins	Mo;Br;So	Pa;Br;So
+cousins	Mo;Br;So	Mo;Sb;So
+cousins	Mo;Br;So	Mo;Br;Ch
+cousins	Mo;Br;Da	Pa;Br;Da
+cousins	Mo;Br;Da	Mo;Sb;Da
+cousins	Mo;Br;Da	Mo;Br;Ch
+cousins	Mo;Ss;So	Pa;Ss;So
+cousins	Mo;Ss;So	Mo;Sb;So
+cousins	Mo;Ss;So	Mo;Ss;Ch
+cousins	Mo;Ss;Da	Pa;Ss;Da
+cousins	Mo;Ss;Da	Mo;Sb;Da
+cousins	Mo;Ss;Da	Mo;Ss;Ch
+cousins	El;Fa;Br;So	Fa;Br;So
+cousins	El;Fa;Br;So	El;Pa;Sb;So
+cousins	Yn;Fa;Br;So	Fa;Br;So
+cousins	Yn;Fa;Br;So	Yn;Pa;Sb;So
+cousins	El;Fa;Br;Da	Fa;Br;Da
+cousins	El;Fa;Br;Da	El;Pa;Sb;Da
+cousins	Yn;Fa;Br;Da	Fa;Br;Da
+cousins	Yn;Fa;Br;Da	Yn;Pa;Sb;Da
+cousins	El;Fa;Ss;So	Fa;Ss;So
+cousins	El;Fa;Ss;So	El;Pa;Sb;So
+cousins	Yn;Fa;Ss;So	Fa;Ss;So
+cousins	Yn;Fa;Ss;So	Yn;Pa;Sb;So
+cousins	El;Fa;Ss;Da	Fa;Ss;Da
+cousins	El;Fa;Ss;Da	El;Pa;Sb;Da
+cousins	Yn;Fa;Ss;Da	Fa;Ss;Da
+cousins	Yn;Fa;Ss;Da	Yn;Pa;Sb;Da
+cousins	El;Mo;Sb;So	Mo;Sb;So
+cousins	El;Mo;Sb;So	El;Pa;Sb;So
+cousins	Yn;Mo;Sb;So	Mo;Sb;So
+cousins	Yn;Mo;Sb;So	Yn;Pa;Sb;So
+cousins	El;Mo;Sb;Da	Mo;Sb;Da
+cousins	El;Mo;Sb;Da	El;Pa;Sb;Da
+cousins	Yn;Mo;Sb;Da	Mo;Sb;Da
+cousins	Yn;Mo;Sb;Da	Yn;Pa;Sb;Da
+cousins	El;Mo;Ss;So	Mo;Ss;So
+cousins	El;Mo;Ss;So	El;Mo;Sb;So
+cousins	Yn;Mo;Ss;So	Mo;Ss;So
+cousins	Yn;Mo;Ss;So	Yn;Mo;Sb;So
+cousins	El;Mo;Ss;Da	Mo;Ss;Da
+cousins	El;Mo;Ss;Da	El;Mo;Sb;Da
+cousins	Yn;Mo;Ss;Da	Mo;Ss;Da
+cousins	Yn;Mo;Ss;Da	Yn;Mo;Sb;Da
+cousins	x;El;Pa;Sb;So	El;Pa;Sb;So
+cousins	x;El;Pa;Sb;So	x;Pa;Sb;So
+cousins	o;El;Pa;Sb;Da	El;Pa;Sb;Da
+cousins	x;Yn;Pa;Sb;So	Yn;Pa;Sb;So
+cousins	x;Yn;Pa;Sb;So	x;Pa;Sb;So
+cousins	o;Yn;Pa;Sb;Da	Yn;Pa;Sb;Da
+cousins	x;Fa;Br;So	Fa;Br;So
+cousins	x;Fa;Br;So	x;Pa;Sb;So
+cousins	o;Fa;Br;So	Fa;Br;So
+cousins	o;Fa;Br;So	o;Pa;Sb;So
+cousins	x;Mo;Ss;So	Mo;Ss;So
+cousins	x;Mo;Ss;So	x;Pa;Sb;So
+cousins	o;Mo;Ss;So	Mo;Ss;So
+cousins	o;Mo;Ss;So	o;Pa;Sb;So
+cousins	x;Fa;Br;Da	Fa;Br;Da
+cousins	x;Fa;Br;Da	x;Pa;Sb;Da
+cousins	o;Fa;Br;Da	Fa;Br;Da
+cousins	x;Mo;Ss;Da	Mo;Ss;Da
+cousins	x;Mo;Ss;Da	x;Pa;Sb;Da
+cousins	o;Mo;Ss;Da	Mo;Ss;Da
+cousins	El;Mo;Br;So	Mo;Br;So
+cousins	El;Mo;Br;So	El;Mo;Sb;So
+cousins	Yn;Mo;Br;So	Mo;Br;So
+cousins	Yn;Mo;Br;So	Yn;Mo;Sb;So
+cousins	El;Mo;Br;Da	Mo;Br;Da
+cousins	El;Mo;Br;Da	El;Mo;Sb;Da
+cousins	Yn;Mo;Br;Da	Mo;Br;Da
+cousins	Yn;Mo;Br;Da	Yn;Mo;Sb;Da
