@@ -20,3 +20,6 @@ This resource currently contains 198 concepts, 1911 words in 168 languages, and 
 
 ## Reference
 Temuulen Khishigsuren, Gábor Bella, Khuyagbaatar Batsuren, Abed Alhakim Freihat, Nandu Chandran Nair, Amarsanaa Ganbold, Hadi Khalilia, Yamini Chandrashekar and Fausto Giunchiglia - <em> Using Linguistic Typology to Enrich Multilingual Lexicons: the Case of Lexical Gaps in Kinship </em> (submitted to LREC 2022)
+
+## License
+The data is released under the Creative Commons Attribution-ShareAlike 3.0 Unported License inherited from Wiktionary itself.
